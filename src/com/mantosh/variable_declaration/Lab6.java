@@ -1,12 +1,8 @@
 package com.mantosh.variable_declaration;
 
-public class Lab6 {
+public class Lab5 {
+    int a;
     public static void main(String[] as){
-        String str;
-        int a;
-        str = "MP";
-        a=99;
-        System.out.println(str);
-        System.out.println(a);
+                System.out.println(a); //non-static field 'a' cannot be referenced from a static context
     }
 }
