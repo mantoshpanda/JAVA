@@ -1,4 +1,4 @@
-package com.mantosh.literals.ASCII_character_sets;
+package com.mantosh.literals.character_literals.ASCII_character_sets;
 
 public class Lab32 {
     public static void main(String... str){

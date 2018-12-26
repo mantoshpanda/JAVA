@@ -1,4 +1,4 @@
-package com.mantosh.literals.escape_sequence;
+package com.mantosh.literals.character_literals.escape_sequence;
 
 public class Lab24 {
     public static void main (String... arg) {
